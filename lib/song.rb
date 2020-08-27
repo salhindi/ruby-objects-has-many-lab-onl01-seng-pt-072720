@@ -9,7 +9,7 @@ class Song
   end
   
   def self.all(songs)
-    @@all << songs
+    @@all
   end
   
   def save 
