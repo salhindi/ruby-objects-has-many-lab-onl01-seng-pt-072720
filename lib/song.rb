@@ -9,14 +9,12 @@ class Song
     save
   end
   
-  def self.all
-    @@all
-  end
-  
   def save 
     @all << self 
   end
   
-  
+   def self.all
+    @@all
+  end
 end
     
