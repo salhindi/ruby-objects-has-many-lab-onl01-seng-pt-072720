@@ -11,9 +11,4 @@ class Artist
   def songs
     @songs << @name 
   end
-  
-  end
-    
-    
- 
 end
