@@ -12,7 +12,7 @@ class Song
     @@all << songs
   end
   
-  
+  def save 
   
   
 end
