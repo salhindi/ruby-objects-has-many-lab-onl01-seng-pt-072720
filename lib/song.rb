@@ -16,6 +16,8 @@ class Song
     @all << self 
   end
   
+  def self.all 
+    
   
   
 end
